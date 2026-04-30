@@ -1,0 +1,9 @@
+#####################################
+# Author - Syed Abbas.
+# Date : April 30, 2026
+# Version : 1.0.0
+#####################################
+
+This is the file for gitHub-06
+we are learning gitHub to consolidate our knowledge...
+
